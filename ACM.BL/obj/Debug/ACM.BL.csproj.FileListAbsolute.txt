@@ -3,3 +3,8 @@ c:\users\christianciuteanu\documents\visual studio 2013\Projects\ACM\ACM.BL\bin\
 c:\users\christianciuteanu\documents\visual studio 2013\Projects\ACM\ACM.BL\obj\Debug\ACM.BL.csprojResolveAssemblyReference.cache
 c:\users\christianciuteanu\documents\visual studio 2013\Projects\ACM\ACM.BL\obj\Debug\ACM.BL.dll
 c:\users\christianciuteanu\documents\visual studio 2013\Projects\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
+E:\Cristi's Folder\GitRepository\ACM\ACM.BL\bin\Debug\ACM.BL.dll
+E:\Cristi's Folder\GitRepository\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
+E:\Cristi's Folder\GitRepository\ACM\ACM.BL\obj\Debug\ACM.BL.csprojResolveAssemblyReference.cache
+E:\Cristi's Folder\GitRepository\ACM\ACM.BL\obj\Debug\ACM.BL.dll
+E:\Cristi's Folder\GitRepository\ACM\ACM.BL\obj\Debug\ACM.BL.pdb

@@ -5,3 +5,10 @@ c:\users\christianciuteanu\documents\visual studio 2013\Projects\ACM\ACM.BLTest\
 c:\users\christianciuteanu\documents\visual studio 2013\Projects\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.csprojResolveAssemblyReference.cache
 c:\users\christianciuteanu\documents\visual studio 2013\Projects\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.dll
 c:\users\christianciuteanu\documents\visual studio 2013\Projects\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.pdb
+E:\Cristi's Folder\GitRepository\ACM\ACM.BLTest\bin\Debug\ACM.BLTest.dll
+E:\Cristi's Folder\GitRepository\ACM\ACM.BLTest\bin\Debug\ACM.BLTest.pdb
+E:\Cristi's Folder\GitRepository\ACM\ACM.BLTest\bin\Debug\ACM.BL.dll
+E:\Cristi's Folder\GitRepository\ACM\ACM.BLTest\bin\Debug\ACM.BL.pdb
+E:\Cristi's Folder\GitRepository\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.csprojResolveAssemblyReference.cache
+E:\Cristi's Folder\GitRepository\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.dll
+E:\Cristi's Folder\GitRepository\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.pdb
