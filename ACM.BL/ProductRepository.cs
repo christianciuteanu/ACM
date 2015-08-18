@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ACM.BL;
 
 namespace ACM.BL
 {
@@ -27,10 +28,22 @@ namespace ACM.BL
             }
             return product;
         }
-        public bool Save()
+        public bool Save(Product product)
         {
-            //TBD
-            return true;
+            var success = true;
+
+            if (product.HasChanges && product.IsValid)
+            {
+                if (product.IsNew)
+                {
+                    //call insert stored procedure
+                }
+                else
+                {
+                    //call update stored procedure
+                }
+            }
+            return success;
         }
     }
 }
