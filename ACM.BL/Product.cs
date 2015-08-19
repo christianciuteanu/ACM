@@ -7,7 +7,7 @@ using Acme.Common;
 
 namespace ACM.BL
 {
-    public class Product : EntityBase
+    public class Product : EntityBase, ILoggable
     {
         public Product()
         {
@@ -47,6 +47,14 @@ namespace ACM.BL
                 isValid = false;
             }
             return isValid;
+        }
+
+        public string Log()
+        {
+            var logString = this.ProductId + ": " + 
+                this.ProductName + " " + this.ProductDescription + 
+                " Status: " + this.EntityState.ToString();
+            return logString;
         }
     }
 }

@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Acme.Common;
 
 namespace ACM.BL
 {
-    public class Order
+    public class Order: EntityBase, ILoggable
     {
         public Order()
         {
@@ -23,7 +24,7 @@ namespace ACM.BL
         public int OrderId { get; private set; }
         public List<OrderItem> OrderItems { get; set; }
 
-        public bool Validate()
+        public override bool Validate()
         {
             var isValid = true;
             if (OrderData == null)
@@ -31,6 +32,11 @@ namespace ACM.BL
                 isValid = false;
             }
             return isValid;
+        }
+
+        public string Log()
+        {
+            throw new NotImplementedException();
         }
     }
 }
